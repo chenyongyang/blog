@@ -1,0 +1,18 @@
+npm install xxx -g
+npm install xxx --global
+上面这两个命令将包安装到了全局环境，也就是node安装目录下的node_modules目录下。
+可以使用npm root -g查看全局安装目录
+
+node_modules存放的是包依赖
+那么当安装nodejs时，就自动安装了npm包，而在npm包中有着109个包依赖
+
+在我今天安装的create-react-app这个项目时，它也有包依赖多达952个，里面的体积非常巨大
+
+npx create-react-app my-app
+
+cd my-app
+
+npm start
+
+npx这种安装方式是本地安装，无需顾虑污染全局
+
