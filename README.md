@@ -4,7 +4,7 @@
 
 ### 目录
 ---
-- [扎实基础](https://github.com/chenyongyang/blog/issues/20#issue-369755246)
+- [不断扎实基础](https://github.com/chenyongyang/blog/issues/20#issue-369755246)
 - [获取URL参数](https://github.com/chenyongyang/blog/issues/19#issue-369753928)
 - [React-redux学习笔记](https://github.com/chenyongyang/blog/issues/17#issue-367475874)
 - [React-thunk学习笔记](https://github.com/chenyongyang/blog/issues/16#issue-367451972)
