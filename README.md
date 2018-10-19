@@ -5,6 +5,7 @@
 ### 目录
 ---
 - [扎实基础](https://github.com/chenyongyang/blog/issues/20#issue-369755246)
+- [react性能优化之shouldComponentUpdate](https://github.com/chenyongyang/blog/issues/23)
 - [eslint学习笔记](https://github.com/chenyongyang/blog/issues/22)
 - [从Vue.js目录看整体设计](https://github.com/chenyongyang/blog/issues/21) 
 - [获取URL参数](https://github.com/chenyongyang/blog/issues/19#issue-369753928)
