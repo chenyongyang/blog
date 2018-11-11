@@ -1,7 +1,7 @@
 <h1 align="center">Github博客</h3>
 
 ## 持续更新中————
-### 目前更新在 https://chenyongyang.github.io
+### 同步更新在 https://chenyongyang.github.io
 
 ### 目录
 ---
