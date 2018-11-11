@@ -1,4 +1,4 @@
-<h1 align="center">Github博客</h3>
+<h1 align="center">我的博客</h3>
 
 ## 持续更新中————
 ### 同步更新在 https://chenyongyang.github.io
